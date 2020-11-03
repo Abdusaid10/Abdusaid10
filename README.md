@@ -8,12 +8,6 @@
 
 <br />
 
-<div align="center" style="padding-top: 10px">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdusaid10)](https://github.com/Abdusaid10/github-readme-stats)
-
-</div>
-
 <div align="center">
   <h3 align="center" style="padding: 10px; margin: 5px">How to reach me</h3>
 
